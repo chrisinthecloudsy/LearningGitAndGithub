@@ -15,4 +15,4 @@
 
 ##### Project Files
 * When a file is added, its 'untracked' or the repo hasnt been told to track it yet.
-*`git add filename.file` has the repo track the file 
+* `git add filename.file` has the repo track the file 
